@@ -1,3 +1,3 @@
 # synchronous-adder
-computer architecture activity 
+computer architecture activity making a synchronous-adder using 
 
